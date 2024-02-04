@@ -23,8 +23,8 @@ body {
   z-index: 99999;
   border: 2px solid white; /* Adjust color and width as needed */
   border-radius: 50%; /* Optional: Add rounded corners */
-  height: 50px;
-  width: 50px;
+  height: 30px;
+  width: 30px;
   box-shadow: 0 0 70px rgba(255, 255, 255, 0.944);
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
 }
